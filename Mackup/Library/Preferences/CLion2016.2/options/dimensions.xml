@@ -1,0 +1,12 @@
+<application>
+  <component name="DimensionService">
+    <location key="WELCOME_SCREEN.0.0.1440.900" x="721" y="230" />
+    <location key="com.intellij.ide.util.TipDialog.0.0.1440.900" x="440" y="288" />
+    <location key="SettingsEditor.0.0.1440.900" x="234" y="189" />
+    <location key="FileChooserDialogImpl.0.0.1440.900" x="510" y="222" />
+    <location key="ProcessPopupWindow.0.0.1440.900" x="1076" y="678" />
+    <size key="NewCMakeProjectWizard.0.0.1440.900" width="500" height="200" />
+    <size key="ImportCMakeProjectWizard.0.0.1440.900" width="640" height="480" />
+    <size key="ProcessPopupWindow.0.0.1440.900" width="185" height="172" />
+  </component>
+</application>

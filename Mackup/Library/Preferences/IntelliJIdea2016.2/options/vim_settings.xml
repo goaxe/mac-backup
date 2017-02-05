@@ -1,0 +1,612 @@
+<application>
+  <component name="VimSettings">
+    <state version="4" enabled="true" />
+    <globalmarks />
+    <filemarks>
+      <file name="$USER_HOME$/workspace/IdeaProjects/recopp/recopp-behavior/src/main/java/com/hulu/recopp/behavior/Behavior.java" timestamp="1481628262140">
+        <mark key="[" line="11" column="32" />
+      </file>
+      <file name="/a.dummy" timestamp="1481764577313">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/IdeaProjects/recopp/recopp-behavior/src/main/java/com/hulu/recopp/behavior/site/PickedTasteBehavior.java" timestamp="1481628261146">
+        <mark key="'" line="8" column="46" />
+        <mark key="[" line="10" column="4" />
+        <mark key="]" line="10" column="3" />
+        <mark key="." line="10" column="3" />
+        <mark key="^" line="10" column="3" />
+      </file>
+      <file name="$USER_HOME$/workspace/IdeaProjects/PCD-valjoux/ValjouxCommon/src/main/java/com/hulu/pcd/valjoux/gossip/curator/CuratorMemberEndpointManager.java" timestamp="1483965692686">
+        <mark key="'" line="20" column="13" />
+      </file>
+      <file name="$USER_HOME$/workspace/IdeaProjects/recopp/recopp-behavior/src/main/java/com/hulu/recopp/behavior/fetcher/resultdecoder/ProfileIdsDecoder.java" timestamp="1481617658874">
+        <mark key="'" line="22" column="48" />
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
+        <mark key="^" line="41" column="60" />
+      </file>
+      <file name="$USER_HOME$/workspace/IdeaProjects/recopp/recopp-datastore/src/test/java/com/hulu/recopp/memstore/PrintUtils.java" timestamp="1480660284875">
+        <mark key="'" line="25" column="0" />
+        <mark key="[" line="60" column="8" />
+        <mark key="]" line="60" column="9" />
+        <mark key="." line="60" column="9" />
+        <mark key="^" line="60" column="9" />
+      </file>
+      <file name="$USER_HOME$/workspace/IdeaProjects/LogSystem/pom.xml" timestamp="1482209911442">
+        <mark key="[" line="16" column="21" />
+        <mark key="]" line="23" column="0" />
+        <mark key="^" line="23" column="0" />
+        <mark key="." line="23" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/IdeaProjects/recopp/recopp-datastore/src/main/resources/datastore/sql/sports_teams.sql" timestamp="1481610576402">
+        <mark key="'" line="652" column="70" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="655" column="165" />
+        <mark key="." line="655" column="165" />
+        <mark key="^" line="655" column="165" />
+      </file>
+      <file name="$USER_HOME$/workspace/IdeaProjects/recopp/recopp-datastore/src/main/java/com/hulu/recopp/memstore/holder/ChronicleMapHolder.java" timestamp="1481604868050">
+        <mark key="'" line="64" column="27" />
+      </file>
+      <file name="$USER_HOME$/workspace/IdeaProjects/recopp/recopp-behavior/src/main/java/com/hulu/recopp/behavior/fetcher/resultdecoder/BehaviorCellsDecoder.java" timestamp="1480736120675">
+        <mark key="'" line="12" column="20" />
+        <mark key="[" line="30" column="0" />
+        <mark key="]" line="30" column="0" />
+        <mark key="." line="30" column="0" />
+        <mark key="^" line="31" column="12" />
+      </file>
+      <file name="$USER_HOME$/workspace/IdeaProjects/PCD-valjoux/ValjouxCommon/src/main/java/com/hulu/pcd/valjoux/base/AvailabilityGossip.java" timestamp="1483923771620">
+        <mark key="'" line="71" column="26" />
+      </file>
+      <file name="$USER_HOME$/workspace/IdeaProjects/recopp/recopp-behavior/src/main/java/com/hulu/recopp/behavior/fetcher/resultdecoder/RateDecoder.java" timestamp="1481628338168">
+        <mark key="'" line="31" column="24" />
+        <mark key="[" line="32" column="4" />
+        <mark key="]" line="33" column="4" />
+        <mark key="." line="31" column="31" />
+        <mark key="^" line="31" column="31" />
+      </file>
+      <file name="$USER_HOME$/workspace/IdeaProjects/recopp/recopp-datastore/src/main/resources/application-context.xml" timestamp="1480642577108">
+        <mark key="'" line="65" column="83" />
+        <mark key="[" line="41" column="96" />
+        <mark key="]" line="41" column="95" />
+        <mark key="." line="41" column="95" />
+        <mark key="^" line="41" column="95" />
+      </file>
+      <file name="$USER_HOME$/workspace/IdeaProjects/recopp/recopp-behavior/src/main/java/com/hulu/recopp/behavior/fetcher/HBaseBehaviorFetcher.java" timestamp="1481628678254">
+        <mark key="'" line="17" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/IdeaProjects/recopp/recopp-datastore/src/main/resources/datastore/config/datastore.properties" timestamp="1481764517530">
+        <mark key="[" line="8" column="67" />
+        <mark key="]" line="9" column="76" />
+        <mark key="^" line="9" column="76" />
+        <mark key="." line="9" column="76" />
+      </file>
+      <file name="$USER_HOME$/workspace/IdeaProjects/recopp/recopp-behavior/src/main/java/com/hulu/recopp/behavior/fetcher/resultdecoder/MastheadLoadDecoder.java" timestamp="1481544914860">
+        <mark key="'" line="18" column="18" />
+        <mark key="[" line="35" column="0" />
+        <mark key="]" line="35" column="0" />
+        <mark key="." line="35" column="0" />
+        <mark key="^" line="34" column="31" />
+      </file>
+      <file name="$USER_HOME$/workspace/IdeaProjects/recopp/recopp-datastore/src/test/java/com/hulu/recopp/memstore/SeasonIndexTest.java" timestamp="1481629519919">
+        <mark key="'" line="97" column="34" />
+        <mark key="[" line="77" column="0" />
+        <mark key="]" line="77" column="0" />
+        <mark key="^" line="10" column="43" />
+        <mark key="." line="77" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/IdeaProjects/recopp/recopp-datastore/src/main/resources/datastore/config/prod/els/datastore.properties" timestamp="1481764505383">
+        <mark key="[" line="4" column="25" />
+        <mark key="]" line="4" column="44" />
+        <mark key="^" line="4" column="44" />
+        <mark key="." line="4" column="44" />
+      </file>
+      <file name="$USER_HOME$/workspace/IdeaProjects/recopp/recopp-datastore/src/main/resources/datastore/sql/sports_leagues.sql" timestamp="1481610218016">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="8" column="64" />
+        <mark key="]" line="8" column="63" />
+        <mark key="." line="8" column="63" />
+        <mark key="^" line="8" column="63" />
+      </file>
+      <file name="$USER_HOME$/workspace/IdeaProjects/recopp/recopp-datastore/src/test/java/com/hulu/recopp/memstore/CachedGenreStoreTest.java" timestamp="1481279250586">
+        <mark key="'" line="134" column="0" />
+        <mark key="[" line="124" column="0" />
+        <mark key="]" line="124" column="0" />
+        <mark key="^" line="165" column="87" />
+        <mark key="." line="124" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/IdeaProjects/recopp/recopp-behavior/src/main/java/com/hulu/recopp/behavior/fetcher/resultdecoder/HBaseResultDecoder.java" timestamp="1480562705073">
+        <mark key="'" line="5" column="17" />
+        <mark key="[" line="7" column="25" />
+        <mark key="]" line="7" column="24" />
+        <mark key="^" line="7" column="24" />
+        <mark key="." line="7" column="24" />
+      </file>
+      <file name="$USER_HOME$/workspace/IdeaProjects/recopp/recopp-datastore/src/main/java/com/hulu/recopp/memstore/EdsIndexManager.java" timestamp="1481605348192">
+        <mark key="'" line="31" column="1" />
+        <mark key="[" line="16" column="47" />
+        <mark key="]" line="16" column="64" />
+        <mark key="." line="16" column="64" />
+        <mark key="^" line="16" column="64" />
+      </file>
+      <file name="$USER_HOME$/workspace/IdeaProjects/recopp/recopp-behavior/src/main/java/com/hulu/recopp/behavior/fetcher/resultdecoder/DecoderUtils.java" timestamp="1480567106789">
+        <mark key="'" line="9" column="27" />
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="13" column="4" />
+        <mark key="^" line="9" column="3" />
+        <mark key="." line="14" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/IdeaProjects/recopp/recopp-datastore/src/main/java/com/hulu/recopp/mapper/sql/SqlMapperFactory.java" timestamp="1481762109668">
+        <mark key="'" line="88" column="18" />
+      </file>
+      <file name="$USER_HOME$/workspace/IdeaProjects/recopp/recopp-datastore/src/test/java/com/hulu/recopp/memstore/CachedEpisodeStoreTest.java" timestamp="1481607811560">
+        <mark key="'" line="54" column="42" />
+      </file>
+      <file name="$USER_HOME$/workspace/IdeaProjects/recopp/recopp-behavior/src/main/java/com/hulu/recopp/behavior/site/SiteBehaviorStore.java" timestamp="1481338528055">
+        <mark key="'" line="234" column="8" />
+      </file>
+      <file name="$USER_HOME$/workspace/IdeaProjects/PCD-valjoux/ValjouxCommon/src/main/java/com/hulu/pcd/valjoux/gossip/common/message/GossipSplitter.java" timestamp="1483924029699">
+        <mark key="'" line="9" column="42" />
+      </file>
+      <file name="$USER_HOME$/workspace/IdeaProjects/recopp/recopp-datastore/src/main/java/com/hulu/recopp/memstore/GenreCompressor.java" timestamp="1480656890800">
+        <mark key="'" line="179" column="0" />
+        <mark key="[" line="120" column="0" />
+        <mark key="]" line="120" column="0" />
+        <mark key="^" line="126" column="39" />
+        <mark key="." line="120" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/IdeaProjects/recopp/recopp-behavior/src/main/java/com/hulu/recopp/behavior/fetcher/resultdecoder/XapiBehaviorCellsDecoder.java" timestamp="1481628080046">
+        <mark key="'" line="46" column="0" />
+        <mark key="[" line="46" column="0" />
+        <mark key="]" line="46" column="0" />
+        <mark key="^" line="31" column="24" />
+        <mark key="." line="46" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/IdeaProjects/recopp/recopp-behavior/src/main/java/com/hulu/recopp/behavior/hbase/APHBase.java" timestamp="1481556217189">
+        <mark key="'" line="56" column="41" />
+      </file>
+      <file name="$USER_HOME$/workspace/IdeaProjects/ExperimentService/UserExperimentEditor/web/static/js/src/create.js" timestamp="1481273667750">
+        <mark key="'" line="212" column="35" />
+        <mark key="[" line="216" column="20" />
+        <mark key="]" line="216" column="15" />
+        <mark key="." line="216" column="15" />
+        <mark key="^" line="216" column="15" />
+      </file>
+      <file name="$USER_HOME$/workspace/IdeaProjects/recopp/recopp-datastore/src/main/resources/datastore/beans/eds.xml" timestamp="1481635999138">
+        <mark key="'" line="48" column="98" />
+        <mark key="[" line="54" column="57" />
+        <mark key="]" line="54" column="56" />
+        <mark key="." line="54" column="56" />
+        <mark key="^" line="54" column="56" />
+      </file>
+      <file name="$USER_HOME$/workspace/IdeaProjects/recopp/recopp-datastore/src/test/java/com/hulu/recopp/memstore/CachedGenreTest.java" timestamp="1480643089010">
+        <mark key="'" line="14" column="20" />
+        <mark key="[" line="55" column="0" />
+        <mark key="]" line="55" column="0" />
+        <mark key="^" line="52" column="18" />
+        <mark key="." line="55" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/IdeaProjects/LogSystem/src/log4j.properties" timestamp="1482210562326">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/IdeaProjects/recopp/recopp-datastore/src/main/java/com/hulu/recopp/mapper/sql/SqlPopularEntityMapper.java" timestamp="1481636091174">
+        <mark key="'" line="57" column="17" />
+      </file>
+      <file name="$USER_HOME$/workspace/IdeaProjects/recopp/recopp-datastore/src/main/resources/datastore/sql/da_bundles.sql" timestamp="1481612596702">
+        <mark key="'" line="7693" column="0" />
+        <mark key="[" line="7658" column="0" />
+        <mark key="]" line="7658" column="0" />
+        <mark key="^" line="7695" column="0" />
+        <mark key="." line="7658" column="0" />
+      </file>
+      <file name="/a.sql" timestamp="1481599281949">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/IdeaProjects/recopp/recopp-datastore/src/main/java/com/hulu/recopp/memstore/compress/marshaller/msgpack/MsgPackMarshaller.java" timestamp="1480647933232">
+        <mark key="'" line="272" column="31" />
+        <mark key="[" line="139" column="51" />
+        <mark key="]" line="140" column="52" />
+        <mark key="^" line="140" column="52" />
+        <mark key="." line="140" column="52" />
+      </file>
+      <file name="$USER_HOME$/workspace/IdeaProjects/recopp/recopp-datastore/src/main/resources/datastore/sql/xx.sql" timestamp="1481612430057">
+        <mark key="'" line="0" column="8" />
+        <mark key="[" line="778" column="46" />
+        <mark key="]" line="778" column="46" />
+        <mark key="." line="778" column="46" />
+        <mark key="^" line="778" column="46" />
+      </file>
+      <file name="$USER_HOME$/workspace/IdeaProjects/PCD-valjoux/ValjouxCommon/src/main/java/com/hulu/pcd/valjoux/gossip/json/JsonGossip.java" timestamp="1483923447438">
+        <mark key="'" line="7" column="44" />
+      </file>
+      <file name="$USER_HOME$/workspace/IdeaProjects/recopp/recopp-datastore/src/main/resources/datastore/sql/da_assets.sql" timestamp="1481611959539">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="5067" column="8" />
+        <mark key="]" line="5100" column="0" />
+        <mark key="^" line="5100" column="0" />
+        <mark key="." line="5100" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/IdeaProjects/recopp/recopp-datastore/src/main/resources/datastore/sql/networks_v2.sql" timestamp="1481279053811">
+        <mark key="'" line="73" column="134" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="73" column="134" />
+        <mark key="." line="73" column="134" />
+        <mark key="^" line="73" column="134" />
+      </file>
+      <file name="$USER_HOME$/workspace/IdeaProjects/recopp/recopp-behavior/src/main/java/com/hulu/recopp/behavior/fetcher/BehaviorCollector.java" timestamp="1481626421509">
+        <mark key="'" line="251" column="0" />
+        <mark key="[" line="152" column="0" />
+        <mark key="]" line="152" column="0" />
+        <mark key="." line="152" column="0" />
+        <mark key="^" line="125" column="3" />
+      </file>
+      <file name="$USER_HOME$/workspace/IdeaProjects/recopp/recopp-datastore/src/main/java/com/hulu/recopp/memstore/compress/index/SeasonEpisodeIndex.java" timestamp="1481039118861">
+        <mark key="'" line="13" column="32" />
+        <mark key="[" line="19" column="42" />
+        <mark key="]" line="19" column="42" />
+        <mark key="^" line="19" column="42" />
+        <mark key="." line="19" column="42" />
+      </file>
+      <file name="$USER_HOME$/workspace/IdeaProjects/recopp/recopp-datastore/src/test/java/com/hulu/recopp/memstore/CachedEpisodeManagerTest.java" timestamp="1481638324811">
+        <mark key="'" line="53" column="8" />
+        <mark key="[" line="110" column="100" />
+        <mark key="]" line="110" column="97" />
+        <mark key="." line="110" column="97" />
+        <mark key="^" line="110" column="97" />
+      </file>
+      <file name="$USER_HOME$/workspace/IdeaProjects/recopp/recopp-spark/src/main/java/com/hulu/recopp/batch/BatchScoring.java" timestamp="1481546440782">
+        <mark key="'" line="87" column="32" />
+        <mark key="[" line="143" column="71" />
+        <mark key="]" line="143" column="78" />
+        <mark key="^" line="143" column="78" />
+        <mark key="." line="143" column="78" />
+      </file>
+      <file name="$USER_HOME$/workspace/IdeaProjects/PCD-valjoux/ValjouxCommon/src/main/java/com/hulu/pcd/valjoux/gossip/json/TickableGossipService.java" timestamp="1483924350378">
+        <mark key="'" line="34" column="14" />
+      </file>
+      <file name="$USER_HOME$/workspace/IdeaProjects/recopp/recopp-datastore/src/main/resources/datastore/sql/availabilities.sql" timestamp="1481599495136">
+        <mark key="'" line="146" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="147" column="0" />
+        <mark key="." line="147" column="0" />
+        <mark key="^" line="147" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/IdeaProjects/recopp/recopp-datastore/src/main/resources/datastore/config/config.xml" timestamp="1481764508774">
+        <mark key="'" line="24" column="59" />
+      </file>
+      <file name="$USER_HOME$/workspace/IdeaProjects/recopp/recopp-datastore/src/main/resources/datastore/sql/event_teams.sql" timestamp="1481610691119">
+        <mark key="'" line="3442" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="3445" column="0" />
+        <mark key="." line="3445" column="0" />
+        <mark key="^" line="3445" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/IdeaProjects/PCD-valjoux/ValjouxCommon/src/main/java/com/hulu/pcd/valjoux/gossip/common/algorithm/MajorityGossipService.java" timestamp="1483924346706">
+        <mark key="'" line="20" column="12" />
+      </file>
+      <file name="$USER_HOME$/workspace/IdeaProjects/PCD-valjoux/ValjouxCommon/src/main/java/com/hulu/pcd/valjoux/gossip/curator/UdpMemberService.java" timestamp="1483924724375">
+        <mark key="'" line="19" column="18" />
+      </file>
+      <file name="$USER_HOME$/workspace/IdeaProjects/recopp/recopp-behavior/src/main/java/com/hulu/recopp/behavior/fetcher/resultdecoder/MastheadClickDecoder.java" timestamp="1481627497631">
+        <mark key="'" line="31" column="0" />
+        <mark key="[" line="62" column="0" />
+        <mark key="]" line="63" column="31" />
+        <mark key="." line="34" column="31" />
+        <mark key="^" line="34" column="31" />
+      </file>
+      <file name="$USER_HOME$/workspace/IdeaProjects/recopp/recopp-scoring-base/src/main/java/com/hulu/recopp/user/UserContextBuilderFactory.java" timestamp="1481547744257">
+        <mark key="'" line="135" column="39" />
+      </file>
+      <file name="$USER_HOME$/workspace/IdeaProjects/recopp/recopp-datastore/src/main/java/com/hulu/recopp/memstore/CachedGenreStore.java" timestamp="1480679845401">
+        <mark key="'" line="130" column="8" />
+        <mark key="[" line="65" column="0" />
+        <mark key="]" line="65" column="0" />
+        <mark key="." line="65" column="0" />
+        <mark key="^" line="64" column="32" />
+      </file>
+      <file name="$USER_HOME$/workspace/IdeaProjects/recopp/recopp-common/src/main/java/com/hulu/recopp/common/util/Numbers.java" timestamp="1481594605887">
+        <mark key="'" line="18" column="33" />
+      </file>
+      <file name="$USER_HOME$/workspace/IdeaProjects/LogSystem/src/main/java/com/jacky/learn/WordCount.java" timestamp="1482210065741">
+        <mark key="'" line="18" column="28" />
+        <mark key="[" line="47" column="0" />
+        <mark key="]" line="47" column="0" />
+        <mark key="." line="47" column="0" />
+        <mark key="^" line="46" column="44" />
+      </file>
+      <file name="$USER_HOME$/workspace/IdeaProjects/recopp/recopp-behavior/src/main/java/com/hulu/recopp/behavior/fetcher/resultdecoder/RemovedShowsDecoder.java" timestamp="1481627450160">
+        <mark key="'" line="7" column="46" />
+      </file>
+      <file name="$USER_HOME$/workspace/IdeaProjects/recopp/recopp-datastore/src/main/resources/datastore/sql/genres.sql" timestamp="1481601712418">
+        <mark key="'" line="19" column="104" />
+        <mark key="[" line="4" column="118" />
+        <mark key="]" line="14" column="51" />
+        <mark key="^" line="14" column="51" />
+        <mark key="." line="14" column="51" />
+      </file>
+      <file name="$USER_HOME$/workspace/IdeaProjects/recopp/recopp-datastore/src/test/java/com/hulu/recopp/memstore/CachedMovieStoreTest.java" timestamp="1481279301737">
+        <mark key="'" line="105" column="8" />
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="^" line="94" column="35" />
+        <mark key="." line="6" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/IdeaProjects/recopp/recopp-behavior/src/main/java/com/hulu/recopp/behavior/site/SiteBehaviorStoreBuilder.java" timestamp="1481556146605">
+        <mark key="'" line="264" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/IdeaProjects/recopp/recopp-datastore/src/test/java/com/hulu/recopp/memstore/CachedSeriesStoreTest.java" timestamp="1481279329630">
+        <mark key="'" line="89" column="0" />
+        <mark key="[" line="89" column="0" />
+        <mark key="]" line="89" column="0" />
+        <mark key="." line="89" column="0" />
+        <mark key="^" line="86" column="36" />
+      </file>
+      <file name="$USER_HOME$/workspace/IdeaProjects/recopp/recopp-datastore/src/main/java/com/hulu/recopp/memstore/CachedMovieStore.java" timestamp="1480688979674">
+        <mark key="'" line="98" column="46" />
+        <mark key="[" line="98" column="86" />
+        <mark key="]" line="98" column="86" />
+        <mark key="^" line="98" column="86" />
+        <mark key="." line="98" column="86" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/org/springframework/spring-beans/4.3.3.RELEASE/spring-beans-4.3.3.RELEASE.jar!/org/springframework/beans/factory/support/AbstractAutowireCapableBeanFactory.class" timestamp="1481762920850">
+        <mark key="'" line="759" column="0" />
+      </file>
+      <file name="/fragment.java" timestamp="1482210234472">
+        <mark key="[" line="0" column="0" />
+      </file>
+    </filemarks>
+    <jumps>
+      <jump line="32" column="4" filename="$USER_HOME$/workspace/IdeaProjects/recopp/recopp-behavior/src/main/java/com/hulu/recopp/behavior/fetcher/resultdecoder/RateDecoder.java" />
+      <jump line="31" column="24" filename="$USER_HOME$/workspace/IdeaProjects/recopp/recopp-behavior/src/main/java/com/hulu/recopp/behavior/fetcher/resultdecoder/RateDecoder.java" />
+      <jump line="30" column="12" filename="$USER_HOME$/workspace/IdeaProjects/recopp/recopp-behavior/src/main/java/com/hulu/recopp/behavior/fetcher/HBaseBehaviorFetcher.java" />
+      <jump line="72" column="26" filename="$USER_HOME$/workspace/IdeaProjects/recopp/recopp-behavior/src/main/java/com/hulu/recopp/behavior/fetcher/HBaseBehaviorFetcher.java" />
+      <jump line="1" column="0" filename="$USER_HOME$/workspace/IdeaProjects/recopp/recopp-behavior/src/main/java/com/hulu/recopp/behavior/fetcher/HBaseBehaviorFetcher.java" />
+      <jump line="77" column="0" filename="$USER_HOME$/workspace/IdeaProjects/recopp/recopp-behavior/src/main/java/com/hulu/recopp/behavior/fetcher/HBaseBehaviorFetcher.java" />
+      <jump line="17" column="0" filename="$USER_HOME$/workspace/IdeaProjects/recopp/recopp-behavior/src/main/java/com/hulu/recopp/behavior/fetcher/HBaseBehaviorFetcher.java" />
+      <jump line="35" column="13" filename="$USER_HOME$/workspace/IdeaProjects/recopp/recopp-datastore/src/main/java/com/hulu/recopp/memstore/compress/index/SeasonIndex.java" />
+      <jump line="207" column="137" filename="$USER_HOME$/workspace/IdeaProjects/recopp/recopp-datastore/src/main/java/com/hulu/recopp/memstore/compress/index/SeasonIndex.java" />
+      <jump line="463" column="50" filename="$USER_HOME$/workspace/IdeaProjects/recopp/recopp-datastore/src/main/java/com/hulu/recopp/memstore/compress/index/SeasonIndex.java" />
+      <jump line="14" column="13" filename="$USER_HOME$/workspace/IdeaProjects/recopp/recopp-datastore/src/test/java/com/hulu/recopp/memstore/SeasonIndexTest.java" />
+      <jump line="224" column="23" filename="$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12.jar!/org/junit/Assert.class" />
+      <jump line="76" column="8" filename="$USER_HOME$/workspace/IdeaProjects/recopp/recopp-datastore/src/test/java/com/hulu/recopp/memstore/SeasonIndexTest.java" />
+      <jump line="70" column="62" filename="$USER_HOME$/workspace/IdeaProjects/recopp/recopp-datastore/src/test/java/com/hulu/recopp/memstore/SeasonIndexTest.java" />
+      <jump line="54" column="30" filename="$USER_HOME$/workspace/IdeaProjects/recopp/recopp-datastore/src/test/java/com/hulu/recopp/memstore/SeasonIndexTest.java" />
+      <jump line="24" column="10" filename="$USER_HOME$/workspace/IdeaProjects/recopp/recopp-datastore/src/test/java/com/hulu/recopp/memstore/SeasonIndexTest.java" />
+      <jump line="97" column="34" filename="$USER_HOME$/workspace/IdeaProjects/recopp/recopp-datastore/src/test/java/com/hulu/recopp/memstore/SeasonIndexTest.java" />
+      <jump line="57" column="11" filename="$USER_HOME$/workspace/IdeaProjects/recopp/recopp-datastore/src/main/resources/datastore/beans/eds.xml" />
+      <jump line="0" column="0" filename="$USER_HOME$/workspace/IdeaProjects/recopp/recopp-datastore/src/main/resources/datastore/beans/eds.xml" />
+      <jump line="38" column="0" filename="$USER_HOME$/workspace/IdeaProjects/recopp/recopp-datastore/src/main/resources/datastore/beans/eds.xml" />
+      <jump line="48" column="98" filename="$USER_HOME$/workspace/IdeaProjects/recopp/recopp-datastore/src/main/resources/datastore/beans/eds.xml" />
+      <jump line="31" column="13" filename="$USER_HOME$/workspace/IdeaProjects/recopp/recopp-datastore/src/test/java/com/hulu/recopp/memstore/CachedEpisodeManagerTest.java" />
+      <jump line="164" column="0" filename="$USER_HOME$/workspace/IdeaProjects/recopp/recopp-datastore/src/test/java/com/hulu/recopp/memstore/CachedEpisodeManagerTest.java" />
+      <jump line="20" column="0" filename="$USER_HOME$/workspace/IdeaProjects/recopp/recopp-datastore/src/test/java/com/hulu/recopp/memstore/CachedEpisodeManagerTest.java" />
+      <jump line="165" column="0" filename="$USER_HOME$/workspace/IdeaProjects/recopp/recopp-datastore/src/test/java/com/hulu/recopp/memstore/CachedEpisodeManagerTest.java" />
+      <jump line="41" column="86" filename="$USER_HOME$/workspace/IdeaProjects/recopp/recopp-datastore/src/main/resources/datastore/beans/memory-stores.xml" />
+      <jump line="29" column="13" filename="$USER_HOME$/workspace/IdeaProjects/recopp/recopp-datastore/src/main/java/com/hulu/recopp/memstore/snapshot/PopularEntitySnapshot.java" />
+      <jump line="57" column="17" filename="$USER_HOME$/workspace/IdeaProjects/recopp/recopp-datastore/src/main/java/com/hulu/recopp/mapper/sql/SqlPopularEntityMapper.java" />
+      <jump line="83" column="0" filename="$USER_HOME$/workspace/IdeaProjects/recopp/recopp-datastore/src/main/java/com/hulu/recopp/mapper/sql/SqlPopularEntityMapper.java" />
+      <jump line="60" column="83" filename="$USER_HOME$/workspace/IdeaProjects/recopp/recopp-datastore/src/main/resources/datastore/beans/memory-stores.xml" />
+      <jump line="24" column="13" filename="$USER_HOME$/workspace/IdeaProjects/recopp/recopp-datastore/src/main/java/com/hulu/recopp/memstore/snapshot/PopularEntitySnapshot.java" />
+      <jump line="49" column="14" filename="$USER_HOME$/workspace/IdeaProjects/recopp/recopp-datastore/src/main/resources/datastore/beans/memory-stores.xml" />
+      <jump line="100" column="0" filename="$USER_HOME$/workspace/IdeaProjects/recopp/recopp-datastore/src/test/resources/application-context.xml" />
+      <jump line="164" column="0" filename="$USER_HOME$/workspace/IdeaProjects/recopp/recopp-datastore/src/main/resources/datastore/beans/memory-stores.xml" />
+      <jump line="1" column="0" filename="$USER_HOME$/workspace/IdeaProjects/recopp/recopp-datastore/src/main/resources/datastore/beans/memory-stores.xml" />
+      <jump line="187" column="0" filename="$USER_HOME$/workspace/IdeaProjects/recopp/recopp-datastore/src/main/resources/datastore/beans/memory-stores.xml" />
+      <jump line="13" column="91" filename="$USER_HOME$/workspace/IdeaProjects/recopp/recopp-datastore/src/test/resources/application-context.xml" />
+      <jump line="34" column="0" filename="$USER_HOME$/workspace/IdeaProjects/recopp/recopp-datastore/src/test/resources/application-context.xml" />
+      <jump line="6" column="52" filename="$USER_HOME$/workspace/IdeaProjects/recopp/recopp-datastore/src/test/resources/application-context.xml" />
+      <jump line="0" column="0" filename="$USER_HOME$/workspace/IdeaProjects/recopp/recopp-datastore/src/main/resources/datastore/beans/memory-stores.xml" />
+      <jump line="32" column="10" filename="$USER_HOME$/workspace/IdeaProjects/recopp/recopp-datastore/src/test/resources/application-context.xml" />
+      <jump line="96" column="57" filename="$USER_HOME$/workspace/IdeaProjects/recopp/recopp-datastore/src/test/resources/application-context.xml" />
+      <jump line="94" column="73" filename="$USER_HOME$/workspace/IdeaProjects/recopp/recopp-datastore/src/test/resources/application-context.xml" />
+      <jump line="27" column="12" filename="$USER_HOME$/workspace/IdeaProjects/recopp/recopp-datastore/src/main/java/com/hulu/recopp/memstore/observer/EdsEntityIndexObserver.java" />
+      <jump line="26" column="0" filename="$USER_HOME$/workspace/IdeaProjects/recopp/recopp-datastore/src/main/resources/datastore/beans/memory-stores.xml" />
+      <jump line="186" column="11" filename="$USER_HOME$/workspace/IdeaProjects/recopp/recopp-datastore/src/main/resources/datastore/beans/memory-stores.xml" />
+      <jump line="97" column="72" filename="$USER_HOME$/workspace/IdeaProjects/recopp/recopp-datastore/src/test/resources/application-context.xml" />
+      <jump line="21" column="0" filename="$USER_HOME$/workspace/IdeaProjects/recopp/recopp-datastore/src/test/resources/application-context.xml" />
+      <jump line="44" column="4" filename="$USER_HOME$/workspace/IdeaProjects/recopp/recopp-datastore/src/test/resources/application-context.xml" />
+      <jump line="33" column="28" filename="$USER_HOME$/workspace/IdeaProjects/recopp/recopp-datastore/src/test/resources/application-context.xml" />
+      <jump line="25" column="31" filename="$USER_HOME$/workspace/IdeaProjects/recopp/recopp-datastore/src/main/resources/datastore/beans/memory-stores.xml" />
+      <jump line="16" column="82" filename="$USER_HOME$/workspace/IdeaProjects/recopp/recopp-datastore/src/main/resources/datastore/beans/memory-stores.xml" />
+      <jump line="178" column="0" filename="$USER_HOME$/workspace/IdeaProjects/recopp/recopp-datastore/src/main/resources/datastore/beans/memory-stores.xml" />
+      <jump line="7" column="21" filename="$USER_HOME$/workspace/IdeaProjects/recopp/recopp-datastore/src/test/resources/application-context.xml" />
+      <jump line="0" column="0" filename="$USER_HOME$/workspace/IdeaProjects/recopp/recopp-datastore/src/test/resources/application-context.xml" />
+      <jump line="101" column="7" filename="$USER_HOME$/workspace/IdeaProjects/recopp/recopp-datastore/src/test/resources/application-context.xml" />
+      <jump line="12" column="30" filename="$USER_HOME$/workspace/IdeaProjects/recopp/recopp-datastore/src/test/resources/application-context.xml" />
+      <jump line="8" column="4" filename="$USER_HOME$/workspace/IdeaProjects/recopp/recopp-datastore/src/test/resources/application-context.xml" />
+      <jump line="57" column="47" filename="$USER_HOME$/workspace/IdeaProjects/recopp/recopp-datastore/src/test/resources/application-context.xml" />
+      <jump line="93" column="0" filename="$USER_HOME$/workspace/IdeaProjects/recopp/recopp-datastore/src/test/resources/application-context.xml" />
+      <jump line="26" column="42" filename="$USER_HOME$/workspace/IdeaProjects/recopp/recopp-datastore/src/test/resources/application-context.xml" />
+      <jump line="39" column="93" filename="$USER_HOME$/workspace/IdeaProjects/recopp/recopp-datastore/src/test/resources/application-context.xml" />
+      <jump line="79" column="8" filename="$USER_HOME$/workspace/IdeaProjects/recopp/recopp-datastore/src/main/java/com/hulu/recopp/memstore/holder/MemoryStoreImpl.java" />
+      <jump line="43" column="76" filename="$USER_HOME$/workspace/IdeaProjects/recopp/recopp-datastore/src/test/resources/application-context.xml" />
+      <jump line="37" column="13" filename="$USER_HOME$/workspace/IdeaProjects/recopp/recopp-datastore/src/main/resources/datastore/config/config.xml" />
+      <jump line="81" column="80" filename="$USER_HOME$/workspace/IdeaProjects/recopp/recopp-datastore/src/test/resources/application-context.xml" />
+      <jump line="34" column="23" filename="$USER_HOME$/workspace/IdeaProjects/recopp/recopp-datastore/src/main/java/com/hulu/recopp/memstore/warmup/EdsSportsWarmUpAgent.java" />
+      <jump line="53" column="8" filename="$USER_HOME$/workspace/IdeaProjects/recopp/recopp-datastore/src/test/java/com/hulu/recopp/memstore/CachedEpisodeManagerTest.java" />
+      <jump line="48" column="8" filename="$USER_HOME$/workspace/IdeaProjects/recopp/recopp-datastore/src/test/java/com/hulu/recopp/memstore/CachedSportStoreTest.java" />
+      <jump line="10" column="49" filename="$USER_HOME$/workspace/IdeaProjects/recopp/recopp-datastore/src/test/resources/application-context.xml" />
+      <jump line="5" column="17" filename="$USER_HOME$/workspace/IdeaProjects/recopp/recopp-datastore/src/main/java/com/hulu/recopp/mapper/CandidateEntityMapper.java" />
+      <jump line="12" column="31" filename="$USER_HOME$/workspace/IdeaProjects/recopp/recopp-datastore/src/main/resources/datastore/config/config.xml" />
+      <jump line="88" column="18" filename="$USER_HOME$/workspace/IdeaProjects/recopp/recopp-datastore/src/main/java/com/hulu/recopp/mapper/sql/SqlMapperFactory.java" />
+      <jump line="7" column="0" filename="$USER_HOME$/workspace/IdeaProjects/recopp/recopp-datastore/src/main/resources/datastore/beans/memory-stores.xml" />
+      <jump line="165" column="19" filename="$USER_HOME$/workspace/IdeaProjects/recopp/recopp-datastore/src/test/resources/application-context.xml" />
+      <jump line="163" column="62" filename="$USER_HOME$/workspace/IdeaProjects/recopp/recopp-datastore/src/test/resources/application-context.xml" />
+      <jump line="198" column="0" filename="$USER_HOME$/workspace/IdeaProjects/recopp/recopp-datastore/src/test/resources/application-context.xml" />
+      <jump line="32" column="40" filename="$USER_HOME$/workspace/IdeaProjects/recopp/recopp-datastore/src/test/java/com/hulu/recopp/memstore/CachedSportStoreTest.java" />
+      <jump line="113" column="42" filename="$USER_HOME$/workspace/IdeaProjects/recopp/recopp-datastore/src/test/resources/application-context.xml" />
+      <jump line="23" column="4" filename="$USER_HOME$/workspace/IdeaProjects/recopp/recopp-datastore/src/test/resources/application-context.xml" />
+      <jump line="109" column="67" filename="$USER_HOME$/workspace/IdeaProjects/recopp/recopp-datastore/src/test/resources/application-context.xml" />
+      <jump line="759" column="0" filename="$MAVEN_REPOSITORY$/org/springframework/spring-beans/4.3.3.RELEASE/spring-beans-4.3.3.RELEASE.jar!/org/springframework/beans/factory/support/AbstractAutowireCapableBeanFactory.class" />
+      <jump line="24" column="59" filename="$USER_HOME$/workspace/IdeaProjects/recopp/recopp-datastore/src/main/resources/datastore/config/config.xml" />
+      <jump line="76" column="0" filename="$USER_HOME$/workspace/IdeaProjects/LogSystem/src/main/java/com/jacky/learn/WordCount.java" />
+      <jump line="18" column="28" filename="$USER_HOME$/workspace/IdeaProjects/LogSystem/src/main/java/com/jacky/learn/WordCount.java" />
+      <jump line="7" column="44" filename="$USER_HOME$/workspace/IdeaProjects/PCD-valjoux/ValjouxCommon/src/main/java/com/hulu/pcd/valjoux/gossip/json/JsonGossip.java" />
+      <jump line="67" column="30" filename="$USER_HOME$/workspace/IdeaProjects/PCD-valjoux/ValjouxCommon/src/main/java/com/hulu/pcd/valjoux/base/AvailabilityGossip.java" />
+      <jump line="71" column="26" filename="$USER_HOME$/workspace/IdeaProjects/PCD-valjoux/ValjouxCommon/src/main/java/com/hulu/pcd/valjoux/base/AvailabilityGossip.java" />
+      <jump line="9" column="42" filename="$USER_HOME$/workspace/IdeaProjects/PCD-valjoux/ValjouxCommon/src/main/java/com/hulu/pcd/valjoux/gossip/common/message/GossipSplitter.java" />
+      <jump line="11" column="17" filename="$USER_HOME$/workspace/IdeaProjects/PCD-valjoux/ValjouxCommon/src/main/java/com/hulu/pcd/valjoux/gossip/common/message/Gossip.java" />
+      <jump line="14" column="82" filename="$USER_HOME$/workspace/IdeaProjects/PCD-valjoux/ValjouxCommon/src/main/java/com/hulu/pcd/valjoux/gossip/common/algorithm/MajorityGossipService.java" />
+      <jump line="36" column="4" filename="$USER_HOME$/workspace/IdeaProjects/PCD-valjoux/ValjouxCommon/src/main/java/com/hulu/pcd/valjoux/gossip/json/TickableGossipService.java" />
+      <jump line="77" column="0" filename="$USER_HOME$/workspace/IdeaProjects/PCD-valjoux/ValjouxCommon/src/main/java/com/hulu/pcd/valjoux/gossip/json/TickableGossipService.java" />
+      <jump line="24" column="22" filename="$USER_HOME$/workspace/IdeaProjects/PCD-valjoux/ValjouxCommon/src/main/java/com/hulu/pcd/valjoux/gossip/json/TickableGossipService.java" />
+      <jump line="20" column="12" filename="$USER_HOME$/workspace/IdeaProjects/PCD-valjoux/ValjouxCommon/src/main/java/com/hulu/pcd/valjoux/gossip/common/algorithm/MajorityGossipService.java" />
+      <jump line="34" column="14" filename="$USER_HOME$/workspace/IdeaProjects/PCD-valjoux/ValjouxCommon/src/main/java/com/hulu/pcd/valjoux/gossip/json/TickableGossipService.java" />
+      <jump line="30" column="29" filename="$USER_HOME$/workspace/IdeaProjects/PCD-valjoux/ValjouxCommon/src/main/java/com/hulu/pcd/valjoux/gossip/curator/UdpMemberService.java" />
+      <jump line="19" column="18" filename="$USER_HOME$/workspace/IdeaProjects/PCD-valjoux/ValjouxCommon/src/main/java/com/hulu/pcd/valjoux/gossip/curator/UdpMemberService.java" />
+      <jump line="20" column="13" filename="$USER_HOME$/workspace/IdeaProjects/PCD-valjoux/ValjouxCommon/src/main/java/com/hulu/pcd/valjoux/gossip/curator/CuratorMemberEndpointManager.java" />
+      <jump line="28" column="17" filename="$MAVEN_REPOSITORY$/org/apache/curator/curator-framework/2.9.1/curator-framework-2.9.1.jar!/org/apache/curator/framework/CuratorFramework.class" />
+    </jumps>
+    <registers>
+      <register name="&quot;" type="2">
+        <text encoding="base64">bG9nNGoucm9vdExvZ2dlcj1kZWJ1ZyxhcHBlbmRlcgo=</text>
+      </register>
+      <register name="-" type="4">
+        <text>#</text>
+      </register>
+      <register name="/" type="4">
+        <text>lq</text>
+      </register>
+      <register name="0" type="4">
+        <text encoding="base64">ZWRzLmpkYmNVcmw9amRiYzpteXNxbDovL2Vsc2Vkc2RiMi9lZHM/dXNlTGVnYWN5RGF0ZXRpbWVDb2RlPWZhbHNlCmVkcy51c2VyPWVkc19yZWFkCmVkcy5wYXNzd29yZD1lZHNfcmVhZAo=</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">bG9nNGoucm9vdExvZ2dlcj1kZWJ1ZyxhcHBlbmRlcgo=</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">L2RlcGVuZGVuY3k+Cg==</text>
+      </register>
+      <register name="3" type="4">
+        <text encoding="base64">PCEtLSBodHRwczovL212bnJlcG9zaXRvcnkuY29tL2FydGlmYWN0L29yZy5hcGFjaGUuaGFkb29wL2hhZG9vcC1jb21tb24gLS0+CjxkZXBlbmRlbmN5Pgo8Z3JvdXBJZD5vcmcuYXBhY2hlLmhhZG9vcDwvZ3JvdXBJZD4KPGFydGlmYWN0SWQ+aGFkb29wLWNvbW1vbjwvYXJ0aWZhY3RJZD4KPHZlcnNpb24+Mi43LjM8L3ZlcnNpb24+Cjw=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">L2RlcGVuZGVuY3k+Cg==</text>
+      </register>
+      <register name="5" type="4">
+        <text encoding="base64">PCEtLSBodHRwczovL212bnJlcG9zaXRvcnkuY29tL2FydGlmYWN0L29yZy5hcGFjaGUuaGFkb29wL2hhZG9vcC1jb21tb24gLS0+CjxkZXBlbmRlbmN5Pgo8Z3JvdXBJZD5vcmcuYXBhY2hlLmhhZG9vcDwvZ3JvdXBJZD4KPGFydGlmYWN0SWQ+aGFkb29wLWNvbW1vbjwvYXJ0aWZhY3RJZD4KPHZlcnNpb24+Mi43LjM8L3ZlcnNpb24+Cjw=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCJpbiBtYXAiKTsK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">cHVibGljIGNsYXNzIFdvcmRDb3VudCB7fQo=</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">Ly8gICAgQElnbm9yZQo=</text>
+      </register>
+      <register name=":" type="4">
+        <text>w</text>
+      </register>
+    </registers>
+    <search>
+      <last-search>lq</last-search>
+      <last-offset />
+      <last-pattern>lq</last-pattern>
+      <last-dir>1</last-dir>
+      <show-last>false</show-last>
+    </search>
+    <history>
+      <history-search>
+        <entry>cas</entry>
+        <entry>access</entry>
+        <entry>sendmes</entry>
+        <entry>sendmessage</entry>
+        <entry>check</entry>
+        <entry>print</entry>
+        <entry>1000</entry>
+        <entry>batch</entry>
+        <entry>jedis</entry>
+        <entry>index.js</entry>
+        <entry>private</entry>
+        <entry>jetty</entry>
+        <entry>init</entry>
+        <entry>:w</entry>
+        <entry>build</entry>
+        <entry>spring</entry>
+        <entry>jersy-core</entry>
+        <entry>httpcom</entry>
+        <entry>compile</entry>
+        <entry>lq</entry>
+      </history-search>
+      <history-cmd>
+        <entry>725</entry>
+        <entry>1077</entry>
+        <entry encoding="base64">JzwsJz5x</entry>
+        <entry>128</entry>
+        <entry>w:w</entry>
+        <entry>Wq</entry>
+        <entry>253</entry>
+        <entry>198</entry>
+        <entry>300</entry>
+        <entry>82</entry>
+        <entry>:w</entry>
+        <entry>&quot;wq</entry>
+        <entry encoding="base64">JzwsJz53</entry>
+        <entry encoding="base64">JzwsJz54</entry>
+        <entry>wq</entry>
+        <entry>x</entry>
+        <entry>W</entry>
+        <entry>Q</entry>
+        <entry>q</entry>
+        <entry>w</entry>
+      </history-cmd>
+      <history-expr />
+      <history-input />
+    </history>
+    <shortcut-conflicts>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed 2</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed O</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed F</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed B</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed P</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed G</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed V</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed R</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed U</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed I</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed W</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed D</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed N</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed A</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
+    <editor>
+      <key-repeat enabled="true" />
+    </editor>
+  </component>
+</application>

@@ -1,0 +1,76 @@
+<application>
+  <component name="DimensionService">
+    <location key="FileChooserDialogImpl.0.0.1440.900" x="508" y="164" />
+    <location key="new project wizard.0.0.1440.900" x="308" y="23" />
+    <location key="WELCOME_SCREEN.0.0.1440.900" x="721" y="230" />
+    <location key="#Project_Structure.0.0.1440.900" x="208" y="23" />
+    <location key="com.intellij.ide.util.TipDialog.0.0.1440.900" x="438" y="254" />
+    <location key="NewModule_or_Project.wizard.0.0.1440.900" x="341" y="42" />
+    <location key="SettingsEditor.0.0.1440.900" x="203" y="61" />
+    <location key="#com.intellij.ide.actions.ChooseComponentsToExportDialog.0.0.1440.900" x="472" y="337" />
+    <location key="ProcessPopupWindow.0.0.1440.900" x="341" y="530" />
+    <location key="findTextDialog.0.0.1440.900" x="598" y="59" />
+    <location key="findTextDialog.1440.0.1920.1080" x="2375" y="292" />
+    <location key="#com.intellij.ide.util.MemberChooser.1440.0.1920.1080" x="2213" y="254" />
+    <location key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog.1440.0.1920.1080" x="2138" y="301" />
+    <location key="ProcessPopupWindow.1440.0.1920.1080" x="1974" y="920" />
+    <location key="SettingsEditor.1440.0.1920.1080" x="1881" y="202" />
+    <location key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes.1440.0.1920.1080" x="2013" y="404" />
+    <location key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog.1440.0.1920.1080" x="2138" y="293" />
+    <location key="#com.intellij.ide.util.MemberChooser.0.0.1440.900" x="189" y="183" />
+    <location key="#com.intellij.fileTypes.FileTypeChooser.0.0.1440.900" x="51" y="267" />
+    <location key="findTextDialog.-1920.-109.1920.1080" x="-1198" y="157" />
+    <location key="findTextDialog.1440.-82.1920.1080" x="2402" y="228" />
+    <location key="#com.intellij.ide.util.MemberChooser.1440.-82.1920.1080" x="2215" y="183" />
+    <location key="#Notifications.1440.-82.1920.1080" x="2156" y="196" />
+    <location key="ProcessPopupWindow.1440.-82.1920.1080" x="2875" y="792" />
+    <location key="FileChooserDialogImpl.1440.-82.1920.1080" x="2188" y="230" />
+    <location key="replaceTextDialog.1440.-82.1920.1080" x="2162" y="181" />
+    <location key="com.intellij.database.view.ui.AbstractDbRefactoringDialog.1440.-82.1920.1080" x="2081" y="163" />
+    <location key="#com.intellij.fileTypes.FileTypeChooser.1440.-82.1920.1080" x="2139" y="275" />
+    <location key="findTextDialog.0.0.1920.1080" x="724" y="278" />
+    <location key="#Notifications.0.0.1440.900" x="478" y="188" />
+    <location key="new project wizard.1440.0.1920.1080" x="1906" y="146" />
+    <location key="FileChooserDialogImpl.1440.0.1920.1080" x="2181" y="382" />
+    <size key="ProcessPopupWindow.0.0.1440.900" width="823" height="180" />
+    <size key="GridCell.Tab.0.left.0.0.1440.900" width="1394" height="281" />
+    <size key="GridCell.Tab.0.center.0.0.1440.900" width="1394" height="281" />
+    <size key="GridCell.Tab.0.right.0.0.1440.900" width="1394" height="281" />
+    <size key="GridCell.Tab.0.bottom.0.0.1440.900" width="1394" height="281" />
+    <size key="GridCell.Tab.0.left.1440.0.1920.1080" width="1878" height="288" />
+    <size key="GridCell.Tab.0.center.1440.0.1920.1080" width="1878" height="288" />
+    <size key="GridCell.Tab.0.right.1440.0.1920.1080" width="1878" height="288" />
+    <size key="GridCell.Tab.0.bottom.1440.0.1920.1080" width="1878" height="288" />
+    <size key="ProcessPopupWindow.1440.0.1920.1080" width="1381" height="110" />
+    <size key="GridCell.Tab.1.left.1440.0.1920.1080" width="1878" height="288" />
+    <size key="GridCell.Tab.1.center.1440.0.1920.1080" width="1878" height="288" />
+    <size key="GridCell.Tab.1.right.1440.0.1920.1080" width="1878" height="288" />
+    <size key="GridCell.Tab.1.bottom.1440.0.1920.1080" width="1878" height="288" />
+    <size key="findTextDialog.1440.0.1920.1080" width="702" height="547" />
+    <size key="findTextDialog.0.0.1440.900" width="842" height="547" />
+    <size key="GridCell.Tab.0.left.-1920.-109.1920.1080" width="1878" height="281" />
+    <size key="GridCell.Tab.0.center.-1920.-109.1920.1080" width="1878" height="281" />
+    <size key="GridCell.Tab.0.right.-1920.-109.1920.1080" width="1878" height="281" />
+    <size key="GridCell.Tab.0.bottom.-1920.-109.1920.1080" width="1878" height="281" />
+    <size key="findTextDialog.-1920.-109.1920.1080" width="776" height="547" />
+    <size key="GridCell.Tab.0.left.1440.-82.1920.1080" width="1878" height="403" />
+    <size key="GridCell.Tab.0.center.1440.-82.1920.1080" width="1878" height="403" />
+    <size key="GridCell.Tab.0.right.1440.-82.1920.1080" width="1878" height="403" />
+    <size key="GridCell.Tab.0.bottom.1440.-82.1920.1080" width="1878" height="403" />
+    <size key="GridCell.Tab.1.left.1440.-82.1920.1080" width="1878" height="288" />
+    <size key="GridCell.Tab.1.center.1440.-82.1920.1080" width="1878" height="288" />
+    <size key="GridCell.Tab.1.right.1440.-82.1920.1080" width="1878" height="288" />
+    <size key="GridCell.Tab.1.bottom.1440.-82.1920.1080" width="1878" height="288" />
+    <size key="ProcessPopupWindow.1440.-82.1920.1080" width="272" height="180" />
+    <size key="findTextDialog.1440.-82.1920.1080" width="842" height="547" />
+    <size key="GridCell.Tab.0.left.0.0.1920.1080" width="1874" height="403" />
+    <size key="GridCell.Tab.0.center.0.0.1920.1080" width="1874" height="403" />
+    <size key="GridCell.Tab.0.right.0.0.1920.1080" width="1874" height="403" />
+    <size key="GridCell.Tab.0.bottom.0.0.1920.1080" width="1874" height="403" />
+    <size key="findTextDialog.0.0.1920.1080" width="866" height="547" />
+    <size key="GridCell.Tab.1.left.0.0.1440.900" width="1878" height="288" />
+    <size key="GridCell.Tab.1.center.0.0.1440.900" width="1878" height="288" />
+    <size key="GridCell.Tab.1.right.0.0.1440.900" width="1878" height="288" />
+    <size key="GridCell.Tab.1.bottom.0.0.1440.900" width="1878" height="288" />
+  </component>
+</application>

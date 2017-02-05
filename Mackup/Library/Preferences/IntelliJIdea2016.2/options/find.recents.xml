@@ -1,0 +1,40 @@
+<application>
+  <component name="FindRecents">
+    <findStrings>
+      <find>(</find>
+      <find>inser</find>
+      <find>in</find>
+      <find>\'</find>
+      <find>series</find>
+      <find>movies</find>
+      <find>`</find>
+      <find>is_deleted</find>
+      <find>sports</find>
+      <find>sports_le</find>
+      <find>is_delete</find>
+      <find>hbase</find>
+      <find>result</find>
+      <find>classpath:datastore/sql</find>
+      <find>edsindexma</find>
+      <find>edsindexmanager</find>
+      <find>edsi</find>
+      <find>cipher</find>
+      <find>svodcontentsnap</find>
+      <find>update</find>
+      <find>snapshot</find>
+      <find>cachedsportstore</find>
+      <find>entity</find>
+      <find>entitystore</find>
+      <find>slidemapp</find>
+      <find>slidestore</find>
+      <find>edsrelationstore</find>
+      <find>memorydb</find>
+      <find>recodb.jdbcur</find>
+      <find>recodb</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>,</replace>
+      <replace>file:../../../recopp-local-sqls</replace>
+    </replaceStrings>
+  </component>
+</application>

@@ -1,0 +1,36 @@
+<idea-plugin version="2">
+  <id>com.xcodersteam.idea.plugins.mkupscss</id>
+  <name>Markup to SCSS</name>
+  <version>0.2.1</version>
+  <vendor email="sem-oro@yandex.ru">XCodersTeam</vendor>
+  <description>
+      Adds option to generate SCSS from selected markup&lt;br&gt;
+      Supports PHP, JSX, AngularJS and HTML&lt;br&gt;
+      &lt;br&gt;
+      &lt;a href="https://github.com/semoro/MarkupToSCSS"&gt;https://github.com/semoro/MarkupToSCSS&lt;/a&gt;
+      &lt;br&gt;
+      Howto:&lt;br&gt;
+      Open file with markup(.php, .jsx, .js, .html)&lt;br&gt;
+      Select block to generate scss template&lt;br&gt;
+      Press RMB, select Generate SCSS from context menu&lt;br&gt;
+      ???????&lt;br&gt;
+      Paste to your scss file&lt;br&gt;
+      PROFIT!&lt;br&gt;
+
+    
+    </description>
+  <change-notes>
+      0.2.1&gt; JSX bugfixes&lt;br&gt;
+      0.2.0&gt; Added PHP support, fixed issue with non-unique div(#1), big code refactoring&lt;br&gt;
+      0.1.0&gt; Nothing changes, except the timestamp
+    
+    </change-notes>
+  <idea-version since-build="141.0"/>
+  <depends>com.intellij.modules.platform</depends>
+  <depends>com.intellij.modules.lang</depends>
+  <actions>
+    <action id="MarkupToSCSS" class="com.xcodersteam.idea.plugins.mkupscss.GenerateSCSSAction" text="Generate SCSS" description="Generate SCSS from selection">
+      <add-to-group group-id="EditorPopupMenu" anchor="last"/>
+    </action>
+  </actions>
+</idea-plugin>

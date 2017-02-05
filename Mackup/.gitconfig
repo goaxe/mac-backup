@@ -1,0 +1,6 @@
+[user]
+	name = jian.huang
+	email = jian.huang@hulu.com
+[alias]
+	copr = !sh -c 'git fetch upstream pull/$0/head:pr-$0 && git checkout pr-$0'
+	st = status

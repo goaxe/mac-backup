@@ -1,0 +1,24 @@
+<application>
+  <component name="UsageTrigger">
+    <counts>
+      <entry feature="CreateFile.CreateFileAction" count="6" />
+      <entry feature="CreateFile.CreateSpringConfigAction" count="1" />
+      <entry feature="execute.Application.Run" count="117" />
+      <entry feature="execute.JUnit.Debug" count="11" />
+      <entry feature="execute.JUnit.JProfiler" count="1" />
+      <entry feature="execute.JUnit.Run" count="510" />
+      <entry feature="execute.SpringBootApplicationConfigurationType.Debug" count="1" />
+      <entry feature="execute.SpringBootApplicationConfigurationType.JProfiler" count="3" />
+      <entry feature="execute.SpringBootApplicationConfigurationType.Run" count="1" />
+      <entry feature="ideaapp.started" count="44" />
+      <entry feature="scala.file.script.parsed" count="14568" />
+      <entry feature="spring.SpringConfigurationCheck.FileCount.java" count="5" />
+      <entry feature="spring.SpringConfigurationCheck.FileCount.xml" count="277" />
+      <entry feature="terminal.mac" count="26" />
+      <entry feature="uml.ShowDiagram.DIFF.popup" count="1" />
+      <entry feature="welcome.screen.WelcomeScreen.CreateNewProject" count="2" />
+      <entry feature="welcome.screen.WelcomeScreen.ImportProject" count="3" />
+      <entry feature="welcome.screen.WelcomeScreen.OpenProject" count="2" />
+    </counts>
+  </component>
+</application>

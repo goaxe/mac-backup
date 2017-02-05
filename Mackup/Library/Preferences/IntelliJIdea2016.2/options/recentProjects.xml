@@ -1,0 +1,125 @@
+<application>
+  <component name="RecentProjectsManager">
+    <option name="recentPaths">
+      <list>
+        <option value="$USER_HOME$/workspace/IdeaProjects/PCD-valjoux" />
+        <option value="$USER_HOME$/workspace/IdeaProjects/LogSystem" />
+        <option value="$USER_HOME$/workspace/IdeaProjects/recopp" />
+        <option value="$USER_HOME$/workspace/IdeaProjects/ExperimentService" />
+        <option value="$USER_HOME$/workspace/IdeaProjects/netty" />
+        <option value="$USER_HOME$/workspace/IdeaProjects/NettyDemo" />
+        <option value="$USER_HOME$/workspace/IdeaProjects/Test" />
+      </list>
+    </option>
+    <option name="openPaths">
+      <list>
+        <option value="$USER_HOME$/workspace/IdeaProjects/PCD-valjoux" />
+      </list>
+    </option>
+    <option name="lastPath" value="$USER_HOME$/workspace/IdeaProjects/PCD-valjoux" />
+    <option name="additionalInfo">
+      <map>
+        <entry key="$USER_HOME$/workspace/IdeaProjects/ExperimentService">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-162.2228.15" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1481336865678" />
+              <option name="buildTimestamp" value="1476374400000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/workspace/IdeaProjects/LogSystem">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-162.2228.15" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1482575851397" />
+              <option name="buildTimestamp" value="1476374400000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/workspace/IdeaProjects/Netty">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-162.2228.15" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1480762257986" />
+              <option name="buildTimestamp" value="1476374400000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/workspace/IdeaProjects/NettyDemo">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-162.2228.15" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1480763832434" />
+              <option name="buildTimestamp" value="1476374400000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/workspace/IdeaProjects/PCD-valjoux">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-162.2228.15" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1483965380414" />
+              <option name="buildTimestamp" value="1476374400000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/workspace/IdeaProjects/Test">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-162.2228.15" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1479865275994" />
+              <option name="buildTimestamp" value="1476374400000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/workspace/IdeaProjects/netty">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-162.2228.15" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1480936391670" />
+              <option name="buildTimestamp" value="1476374400000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/workspace/IdeaProjects/recopp">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-162.2228.15" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1482209688259" />
+              <option name="buildTimestamp" value="1476374400000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/workspace/IdeaProjects/untitled">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-162.2228.15" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1479799668238" />
+              <option name="buildTimestamp" value="1476374400000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="lastProjectLocation" value="$USER_HOME$/workspace/IdeaProjects" />
+  </component>
+</application>
